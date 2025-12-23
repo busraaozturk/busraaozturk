@@ -34,5 +34,3 @@ Aynı zamanda **.NET MVC** ile projeler yaparak **Full Stack becerilerimi** de a
 🔗 **LinkedIn**: https://www.linkedin.com/in/busraoozturk
 
 ---
-
-> 🧠 “Gelişim bir yolculuktur, varış noktası değil.” – Her gün bir adım daha ileri! 🚀
